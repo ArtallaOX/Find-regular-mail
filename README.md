@@ -1,2 +1,3 @@
 # Find-regular-mail
-.sh .py .java
+
+.sh .py .js .sql
